@@ -1,0 +1,25 @@
+{
+	"erase_block": "0x8000",
+	"logic_block": "0x200",
+	"offset": "0x000000",
+	"partiton": [
+		{
+			"plain_file": [
+				{
+					"file": "./",
+					"local_file": "."
+				},
+				{
+					"file": "main 1.go",
+					"local_file": "main 1.go"
+				},
+				{
+					"file": "output.json",
+					"local_file": "output.json"
+				}
+			]
+		}
+	],
+	"size": "0x800000",
+	"type": "FBD2"
+}
